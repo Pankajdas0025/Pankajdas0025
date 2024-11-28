@@ -1,12 +1,8 @@
 
 ## Hey 👋! Here PANKAJ KUMAR DAS, I'm a passionate frontend web developer.
-🎓 BCA Student | TMU University, Moradabad
-💼 Software Engineer | Full Stack Developer
-📚 Web Development | Web3 | Android Development | DSA | Problem Solving Skills
+🎓 BCA Student | TMU University, Moradabad<br>
+📚 Web Development | 
 
-YouTube logo Instagram logo Facebook logo Twitter logo Discord logo Gmail logo LinkedIn logo
-I code with
-HTML logo  CSS logo  JavaScript logo  TypeScript logo  Bootstrap logo  React logo  Next.js logo  Node.js logo  Express.js logo  MongoDB logo  Postman logo
 
 <!--
 **Pankajdas0025/Pankajdas0025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
