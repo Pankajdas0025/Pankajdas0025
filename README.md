@@ -1,6 +1,6 @@
 
 <h1>Hey 👋 I'm a Webdeveloper</h1>
-<h2 style="color:red;">HTML || CSS || JavaScript || Bootstrap || React JS.</h2>
+<h2 style="color:red;">HTML || CSS || JavaScript || Bootstrap || MySQL || PHP </h2>
 🎓 BCA Student | TMU University, Moradabad<br>
 📚 Web Development | 
 <br>
