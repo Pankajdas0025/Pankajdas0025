@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center" style="color:#0077FF;">Tech Stack I Work With</h2>
+### Here’s What I Love to Code With:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
