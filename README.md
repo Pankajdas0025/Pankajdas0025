@@ -38,26 +38,13 @@
 
 <p align="center">
   <a href="mailto:pankajkumardas8678@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.instagram.com/pankajdas_0025/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://x.com/Pankajdas_0025">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/pankaj-kumar-das-134603297">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100066526389871">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://github.com/Pankajdas0025">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.hackerrank.com/profile/pankajkumardas81">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/pankajdas0025/" target="_blank">
-  <img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" />
+  <a href="https://www.instagram.com/pankajdas_0025/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/Pankajdas_0025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pankaj-kumar-das-134603297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.facebook.com/profile.php?id=100066526389871"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+  <a href="https://github.com/Pankajdas0025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/pankajkumardas81"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/PANKAJDAS0025/" target="_blank"><img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" />
 </a>
  
 </p>
