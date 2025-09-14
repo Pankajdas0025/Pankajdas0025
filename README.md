@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-
-
+ 
 </p>
 
 
@@ -48,8 +46,9 @@
   <a href="https://www.facebook.com/profile.php?id=100066526389871"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
   <a href="https://github.com/Pankajdas0025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/pankajkumardas81"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/PANKAJDAS0025/" target="_blank"><img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" />
-</a>
+  <a href="https://leetcode.com/u/PANKAJDAS0025/" target="_blank"><img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" /></a>
+<a href="https://buymeacoffee.com/pankajkuma7" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+
  
 </p>
 
