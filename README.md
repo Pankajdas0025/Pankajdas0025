@@ -8,7 +8,7 @@
 
 ### Here’s What I Love to Code With:
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
  
-</p>
+
 
 
 
@@ -36,21 +36,22 @@
 ---
 
 ### Connect With Me
+<a href="https://pankajportfolio.free.nf/"><img src="https://img.shields.io/badge/Portfolio-0073e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" /></a>
+<a href="mailto:pankajkumardas8678@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/pankajdas_0025/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/Pankajdas_0025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pankaj-kumar-das-134603297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.facebook.com/profile.php?id=100066526389871"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
-<p align="center">
-  <a href="https://pankajportfolio.free.nf/"><img src="https://img.shields.io/badge/Portfolio-0073e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" /></a>
-  <a href="mailto:pankajkumardas8678@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/pankajdas_0025/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/Pankajdas_0025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pankaj-kumar-das-134603297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  <a href="https://www.facebook.com/profile.php?id=100066526389871"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
-  <a href="https://github.com/Pankajdas0025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/pankajkumardas81"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/PANKAJDAS0025/" target="_blank"><img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" /></a>
+### Tech Handlers
+<a href="https://www.hackerrank.com/profile/pankajkumardas81"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://leetcode.com/u/PANKAJDAS0025/" target="_blank"><img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" /></a>
+
+
+### Explore My Work
+<a href=" https://www.freelancer.in/u/pankajkrdas0025"><img src="https://img.shields.io/badge/FreeLancer-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a>
+<a href=" https://https://www.fiverr.com/pankajdas0025/"><img src="https://img.shields.io/badge/Fiverr-673AB7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://buymeacoffee.com/pankajkuma7" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-
- 
-</p>
 
 ---
 
