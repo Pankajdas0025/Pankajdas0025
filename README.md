@@ -1,8 +1,5 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=CDFF4000&width=435&lines=Hey%F0%9F%91%8B+I'm+Pankaj+Kumar+Das+;BCA+student+at+Teerthanker+Mahaveer+University;Full-stack+Developer+;Let's+build+something+awesome" alt="Typing SVG" /></h1>
-
-
-
-
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=CDFF4000&width=435&lines=Hey%F0%9F%91%8B+I'm+Pankaj+Kumar+Das+;BCA+student+at+Teerthanker+Mahaveer+University;Full-stack+Developer+;Let's+build+something+awesome" alt="Typing SVG" />
+</h1>
 
 ---
 
