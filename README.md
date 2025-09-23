@@ -59,8 +59,9 @@
 
  Whether you're a recruiter, client, or fellow developer - I’m open to freelance projects, internships, and creative collaborations. Let’s build something impactful together!
 <br>
+<br>
 <a href="https://wa.me/919876543210?text=Hi%20I%20found%20you%20on%20GitHub!" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 
