@@ -2,7 +2,6 @@
 </h1>
 
 ---
-
 ### Here’s What I Love to Code With:
 
 <p align="left">
