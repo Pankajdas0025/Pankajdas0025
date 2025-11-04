@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=CDFF4000&width=435&lines=Hey%F0%9F%91%8B+I'm+Pankaj+Kumar+Das+;BCA+student+at+Teerthanker+Mahaveer+University;Full-stack+Developer+;Let's+build+something+awesome" alt="Typing SVG" />
 </h1>
----
-### Here’s What I Love to Code With:
+
+ ### Here’s What I Love to Code With:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,7 +46,15 @@
 <a href=" https://https://www.fiverr.com/pankajdas0025/"><img src="https://img.shields.io/badge/Fiverr-673AB7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://buymeacoffee.com/pankajkuma7" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
----
+### Connect With Campusxchange
+
+<a href="https://campusxchange.wuaze.com/"><img src="https://img.shields.io/badge/Portfolio-0073e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" /></a>
+<a href="mailto:campusxchangeservices@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.youtube.com/@campusxchange_services" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="mailto:campusxchangeservices@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/campusxchange_services/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/campusxchange-services/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.facebook.com/campusxchangeservices"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
 ### Looking to Collaborate?
 
@@ -60,7 +68,7 @@
 
 <br>
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajdas0025&theme=radical" height="350" width="300" /><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajdas0025&theme=radical"height="350"width="300"/><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajdas0025&layout=compact&theme=radical" height="220" width="300" /><br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankajdas0025&theme=radical" height="350" width="300" />
 </p>
