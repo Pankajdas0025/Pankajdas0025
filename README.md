@@ -13,11 +13,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
- 
-
 
 ---
-
 ### About Me
 - BCA Student at **TMU University**, Moradabad  
 - Passionate about building **accessible, responsive website and webapplication**  
