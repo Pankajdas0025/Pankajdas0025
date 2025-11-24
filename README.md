@@ -19,7 +19,6 @@
 ---
 
 ### About Me
-
 - BCA Student at **TMU University**, Moradabad  
 - Passionate about building **accessible, responsive website and webapplication**  
 - Quick learner, currently exploring **Laravel & SEO tools**  
@@ -63,8 +62,6 @@
 <a href="https://wa.me/919155726625?text=Hi%20I%20found%20you%20on%20GitHub!" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-
 <br>
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajdas0025&theme=radical"height="350"width="200"/>
