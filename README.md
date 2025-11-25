@@ -28,7 +28,7 @@
 ### About Me
 - BCA Student at **TMU University**, Moradabad  
 - Passionate about building **accessible, responsive website and webapplication**  
-- Quick learner, currently exploring **Laravel & SEO tools**  
+- Quick learner, currently exploring **React, Laravel & SEO tools**  
 - Multilingual communicator: Hindi | English |Bengali 
 <!-- Founder of [CampusXchange](https://github.com/CampusXchange) — a hub for education & tech services -->
 
