@@ -1,6 +1,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=CDFF4000&width=435&lines=Hey%F0%9F%91%8B+I'm+Pankaj+Kumar+Das+;BCA+student+at+Teerthanker+Mahaveer+University;Full-stack+Developer+;Let's+build+something+awesome" alt="Typing SVG" />
 </h1>
 
+
  ### Here’s What I Love to Code With:
 
 <p align="left">
@@ -74,6 +75,7 @@
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajdas0025&theme=radical"height="350"width="200"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajdas0025&layout=compact&theme=radical" height="220" width="200" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankajdas0025&theme=radical" height="350" width="200" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Pankajdas0025&no-bg=true&no-frame=true"/>
 </p>
 
       
