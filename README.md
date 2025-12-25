@@ -1,9 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=CDFF4000&width=435&lines=Hey%F0%9F%91%8B+I'm+Pankaj+Kumar+Das+;BCA+student+at+Teerthanker+Mahaveer+University;Full-stack+Developer+;Let's+build+something+awesome" alt="Typing SVG" />
 </h1>
-
-
  ### Here’s What I Love to Code With:
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
