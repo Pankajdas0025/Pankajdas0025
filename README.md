@@ -1,5 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=CDFF4000&width=435&lines=Hey%F0%9F%91%8B+I'm+Pankaj+Kumar+Das+;BCA+student+at+Teerthanker+Mahaveer+University;Full-stack+Developer+;Let's+build+something+awesome" alt="Typing SVG" />
 </h1>
+
  ### Here’s What I Love to Code With:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,15 +12,12 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
- 
  ### Programming with:
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-
 </p>
 
 ---
@@ -28,7 +26,7 @@
 - Passionate about building **accessible, responsive website and webapplication**  
 - Quick learner, currently exploring **React, Laravel & SEO tools**  
 - Multilingual communicator: Hindi | English |Bengali 
-<!-- Founder of [CampusXchange](https://github.com/CampusXchange) — a hub for education & tech services -->
+- Founder of CampusXchange Services — a hub for education & tech services -->
 
 ---
 ### Connect With Me
@@ -68,79 +66,58 @@
 <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <br>
-# My-Clients-Project-Showcase
+# My work
 A private showcase of web development projects created for clients, highlighting custom solutions built using HTML, CSS, JavaScript, PHP, and MySQL. Each project is designed with client requirements in mind, focusing on responsive layouts, clean design, and functional features.
 
 ---
 
 <table>
-
   <thead>
     <th>Project Preview</th>
     <td>Title/Name</td>
     <th>Live Demo</th>
   </thead>
-
   <tbody>
     <tr>
-      <td width="33%" > <img src="images/Blogscript.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/Blogscript.png"> </td>
       <td width="33%" > BlogScript Web Application </td>
       <td width="33%" > <a href="https://blogscriptapp.free.nf/" >🌐 Live View </a></td>
     </tr>
     <tr>
-      <td width="33%" > <img src="images/Mandal-comm.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/Mandal-comm.png"> </td>
       <td width="33%" > Mandal Communication  </td>
       <td width="33%" > <a href="https://web-demo.free.nf/index" >🌐 Live View </a></td>
     </tr>
     <tr>
-      <td width="33%" > <img src="images/Campusxchange.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/Campusxchange.png"> </td>
       <td width="33%" > Campusxchange Services </td>
       <td width="33%" > <a href="https://campusxchange-services.free.nf/">🌐 Live View </a></td>
     </tr>
     <tr>
-      <td width="33%" > <img src="images/edms.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/edms.png"> </td>
       <td width="33%" > Employee Database Management System</td>
       <td width="33%" > <a href="#" >🌐 Live View </a></td>
     </tr>
     <tr>
     <tr>
-      <td width="33%" > <img src="images/Paramount.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/Paramount.png"> </td>
       <td width="33%" > Paramount coaching website</td>
       <td width="33%" > <a href="https://pankajdas0025.github.io/Paramount-Coaching-Centre/" >🌐 Live View </a></td>
     </tr>
         <tr>
-      <td width="33%" > <img src="images/STE.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/STE.png"> </td>
       <td width="33%" > Smart Explorer</td>
       <td width="33%" > <a href="https://youtu.be/7fPNNUCMgos?si=JQ21ReMsjf5yQqDt" >🌐 Live View </a></td>
     </tr>
-    <tr>
-      <td width="33%" > <img src="images/Smita.png"> </td>
-      <td width="33%" > Smita Portfolio Website</td>
-      <td width="33%" > <a href="https://github.com/smitakumari02/its-smita-portfolio.git" >🌐 Live View </a></td>
-    </tr>
-      <td width="33%" > <img src="images/News-portal.png"> </td>
+      <td width="33%" > <img src="https://github.com/Pankajdas0025/My-Clients-project-showcase/blob/main/images/News-portal.png"> </td>
       <td width="33%" > Life News Portal </td>
       <td width="33%" > <a href="https://life-news-tech-portal.kesug.com/" >🌐 Live View </a></td>
     </tr>
-    
   </tbody>
 </table>
 
-## Features
-
-- **Client-Focused Solutions:** Projects developed according to specific client needs.
-- **Responsive & Modern Design:** Works seamlessly on desktops, tablets, and mobile devices.
-- **Clean & Organized Code:** Easy to maintain and extend.
-- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL.
-
----
-
-
-
 ## License
-
 **GitHub Proprietary License**
-
 All rights are reserved. You **may not** copy, modify, distribute, or use any of the code without explicit permission. This ensures the privacy and security of all client projects.
 
 
