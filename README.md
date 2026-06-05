@@ -35,17 +35,8 @@
 <a href="https://www.instagram.com/pankajdas_0025/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://x.com/Pankajdas_0025"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pankaj-kumar-das-134603297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="https://www.facebook.com/profile.php?id=100066526389871"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
-
-### Tech Handlers
-<a href="https://www.hackerrank.com/profile/pankajkumardas81"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://leetcode.com/u/PANKAJDAS0025/" target="_blank"><img src="https://badges.peiyuan.ch/leetcode/pankajdas0025/ranking?logo=leetcode&label=LeetCode&style=for-the-badge&color=orange" alt="LeetCode Ranking Badge" /></a>
 
 
-### Explore My Work
-<a href=" https://www.freelancer.in/u/pankajkrdas0025"><img src="https://img.shields.io/badge/FreeLancer-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a>
-<a href=" https://https://www.fiverr.com/pankajdas0025/"><img src="https://img.shields.io/badge/Fiverr-673AB7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://buymeacoffee.com/pankajkuma7" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 ### Connect With Campusxchange
 
